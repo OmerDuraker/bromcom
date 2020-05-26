@@ -9417,10 +9417,6 @@ a.theme-link:hover {
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
-  display: flex !important;
-  align-items: center !important;
-  margin-right: 15px !important;
-  margin-left: 15px !important;
   position: relative;
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
