@@ -8941,7 +8941,6 @@ body {
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #4c527d;
 }
 h1,
 h2,
@@ -8966,10 +8965,13 @@ a.theme-link:hover {
 }
 .btn {
   font-weight: 600;
-  padding: 0.875rem 2.5rem;
+  padding: 0.875rem 2rem;
   transition: all 0.4s ease-in-out;
   border-radius: 2rem;
   border: none;
+}
+.cta-holder {
+  margin-bottom: 1rem;
 }
 @media (prefers-reduced-motion: reduce) {
   .btn {
@@ -9318,6 +9320,9 @@ a.theme-link:hover {
   }
 }
 @media (max-width: 991.98px) {
+  .contact {
+    font-size: 1.4rem;
+  }
   .section-heading {
     font-size: 1.75rem;
   }
