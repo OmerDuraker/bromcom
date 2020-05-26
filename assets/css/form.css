@@ -155,9 +155,6 @@ button:hover {
   padding-bottom: 1rem;
 }
 
-/*------------------------------------------------------------------
-[  ]*/
-
 .wrap-input100 {
   width: 100%;
   position: relative;
@@ -191,7 +188,6 @@ button:hover {
   padding-right: 15px;
 }
 
-/*---------------------------------------------*/
 input.input100 {
   height: 40px;
 }
@@ -210,8 +206,6 @@ textarea.input100 {
   width: 100%;
 }
 
-/*------------------------------------------------------------------
-[ Button ]*/
 .container-contact100-form-btn {
   display: -webkit-box;
   display: -webkit-flex;
