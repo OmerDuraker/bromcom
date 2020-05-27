@@ -9234,7 +9234,7 @@ a.theme-link:hover {
   font-weight: bold;
 }
 .contact {
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-family: "Quicksand", sans-serif;
 }
 .hero-section .subheadline {
@@ -9422,7 +9422,7 @@ a.theme-link:hover {
 }
 @media (max-width: 991.98px) {
   .contact {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
   .section-heading {
     font-size: 1.75rem;
