@@ -9234,7 +9234,7 @@ a.theme-link:hover {
   font-weight: bold;
 }
 .contact {
-  font-size: 2rem;
+  font-size: 1.6rem;
   font-family: "Quicksand", sans-serif;
 }
 .hero-section .subheadline {
@@ -9348,13 +9348,13 @@ a.theme-link:hover {
   color: #7fcdb8;
 }
 .reviews-section .item-inner {
-  height: 100%;
+  height: 300px;
   position: relative;
 }
 .reviews-section .icon-holder {
   position: absolute;
   left: 50%;
-  top: -18px;
+  top: 0;
   margin-left: -18px;
   display: inline-block;
   width: 36px;
@@ -9372,7 +9372,9 @@ a.theme-link:hover {
   font-size: 0.875rem;
 }
 .reviews-section .quote {
+  margin-top: 1.4rem;
   font-style: italic;
+  text-align: center;
 }
 .author-section {
   color: #fff;
