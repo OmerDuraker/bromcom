@@ -9451,7 +9451,7 @@ a.theme-link:hover {
 }
 @media (min-width: 1024px) {
   .hero-section {
-    background-image: url("../images/hero.png");
+    background-image: url("../images/hero-bg.png");
     position: relative;
   }
 }
